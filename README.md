@@ -11,6 +11,13 @@
 -  React
 -  Select-React
 
+</br>
+
+## How the website looks like
+
+![Desktop](./src/assets/real-estate.png)
+
+</br>
 
 ## Start with Create React App
 
