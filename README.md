@@ -13,6 +13,12 @@
 
 </br>
 
+---
+
+### Checkout the live website [here](https://real-estate-rent-page.netlify.app/).
+
+---
+
 ## How the website looks like
 
 ![Desktop](./src/assets/real-estate.png)
